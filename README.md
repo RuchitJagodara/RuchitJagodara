@@ -30,7 +30,7 @@
 	 	<img alt="Ruchit Jagodara's Discord" width="100px" src="discord-logo-blue.svg" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/ruchit-jagodara-8905b1279/" rel="nofollow">
-  		<img alt="Ruchit Jagodara's LinkedIn" width="100px" src="LI-Logo.png" style="max-width: 100%;">
+  		<img alt="Ruchit Jagodara's LinkedIn" width="100px" src="https://github.com/RuchitJagodara/RuchitJagodara/blob/main/LI-Logo.png" style="max-width: 100%;">
 	</a>
 </div>
 </p>
