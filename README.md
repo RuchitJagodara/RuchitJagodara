@@ -41,7 +41,7 @@
 <p align="left">
   <a href="https://ruchitjagodara.github.io/Quarto-Website-Blog/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RuchitJagodara&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitJagodara&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
