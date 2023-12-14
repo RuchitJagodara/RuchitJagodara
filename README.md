@@ -35,21 +35,37 @@
 </div>
 </p>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+### Hi there 😃
 
-<br/>
+Welcome to my slice of Github!
+
+Here's a little bit about me. For more, please reach me at my website, at https://ruchitjagodara.github.io/Quarto-Website-Blog/.
+
+- 🌱 I’m currently learning machine learning and some advanced algoritms in the field of graphs.
+- 👯 I’m looking to collaborate on projects on computer vision, natural language processing, machine learning, and (especially) algorithms.
+- 📫 Reach me at ruchit.jagodara@iitgn.ac.in, visit [my website](https://ruchitjagodara.github.io/Quarto-Website-Blog/), or text me at +91 99783 10770!
+
+
+![](https://komarev.com/ghpvc/?username=RuchitJagodara)
+<!--# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+ <br/>
 <p align="left">
   <a href="https://ruchitjagodara.github.io/Quarto-Website-Blog/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RuchitJagodara&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitJagodara&theme=radical&hide_border=true">		  
   </a>
 </p>
-<br>
+<br> 
 
 <p align="center">
   <a href="https://ruchitjagodara.github.io/Quarto-Website-Blog/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitJagodara&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-
+<p align="center">
+Profile views
+</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{RuchitJagodara}/count.svg"></p>
+<br>
+<br>-->
