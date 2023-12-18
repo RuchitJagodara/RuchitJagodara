@@ -39,7 +39,8 @@
 
 Welcome to my slice of Github!
 
-Here's a little bit about me. For more, please reach me at my website, at https://ruchitjagodara.github.io/Quarto-Website-Blog/.
+Here's a little bit about me. I am currently doing my B.Tech. in Computer Science and Engineering at IIT Gandhinagar.
+For more, please reach me at my website, at https://ruchitjagodara.github.io/Quarto-Website-Blog/.
 
 - 🌱 I’m currently learning machine learning and some advanced algoritms in the field of graphs.
 - 👯 I’m looking to collaborate on projects on computer vision, natural language processing, machine learning, and (especially) algorithms.
