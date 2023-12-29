@@ -42,9 +42,9 @@ Welcome to my slice of Github!
 I am sophomore at IIT Gandhinagar, pursuing my B.Tech. degree in Computer Science and Engineering.
 
 Here's a little bit about me.
-For more, please reach me at my website, at https://ruchitjagodara.github.io/Quarto-Website-Blog/.
 
 - 🌱 I’m currently learning machine learning and some advanced algoritms in the field of graphs.
+- 🔭 I'm currently contributing to sagemath/sage, an impressive open source mathematical software system based on the Python programming language.
 - 👯 I’m looking to collaborate on projects on computer vision, natural language processing, machine learning, and (especially) algorithms.
 - 📫 Reach me at ruchit.jagodara@iitgn.ac.in, visit [my website](https://ruchitjagodara.github.io/Quarto-Website-Blog/), or text me at +91 99783 10770!
 
